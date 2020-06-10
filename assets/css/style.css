@@ -791,7 +791,6 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     }
     .mailbox{
         width: 100%;
-		height: 80%;
     }
     .address-list {
     padding: 200px 0px 70px 0px;
@@ -803,7 +802,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     }
     .mailbox .container{
         margin-top: 100px;
-        height: auto;
+        height: 60%;
     }
     .address-list {
         padding: 200px 0px 70px 0px;
