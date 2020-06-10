@@ -791,6 +791,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     }
     .mailbox{
         width: 100%;
+		height: 80%;
     }
     .address-list {
     padding: 200px 0px 70px 0px;
