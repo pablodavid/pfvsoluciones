@@ -1598,7 +1598,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 #footer {
     background: #36F;
-    padding: 20px 0px 22px 0px;
+    padding: 0px 0px 0px 0px;
 }
 .footer-logo {
     font-size: 27px;
