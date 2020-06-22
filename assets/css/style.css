@@ -634,7 +634,7 @@ p.client-name {
     display: table;
 }
 .address-list li {
-    font-size: 15px;
+    font-size: 1.9vh;
     padding: 0.5em 0;
     color: #fff;
     font-weight: 100;
