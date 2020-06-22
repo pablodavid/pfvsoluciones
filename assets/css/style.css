@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
 * Table of Contents:
 *
@@ -387,7 +386,7 @@ a:hover {
 
 
 #gallery{
-    background: url(../img/gallery-bg.png) no-repeat;
+    background: url(../img/gallery-bg.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -511,7 +510,7 @@ a:hover {
 
 
 #testimonial {
-    background: url(../img/testi-bg.png);
+    background: url(../img/testi-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1257,7 +1256,7 @@ a:hover {
 
 
 #gallery{
-    background: url(../img/gallery-bg.png) no-repeat;
+    background: url(../img/gallery-bg.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -1381,7 +1380,7 @@ a:hover {
 
 
 #testimonial {
-    background: url(../img/testi-bg.png);
+    background: url(../img/testi-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1738,5 +1737,4 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     .btn-custom {
         padding: 5px 0px;
     }
->>>>>>> bb3af4d... Primer-subida
 }
