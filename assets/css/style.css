@@ -634,7 +634,7 @@ p.client-name {
     display: table;
 }
 .address-list li {
-    font-size: 1.2vh;
+    font-size: 0.5*2vh;
     padding: 0.5em 0;
     color: #fff;
     font-weight: 100;
@@ -770,17 +770,6 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 /*1340px - 1170px*/
 
-@media all and (max-width: 1340px) and (min-width: 1170px) {
-    .address-list li {
-        font-size: 18px;
-    }
-    .address-list li i {
-        width: 60px;
-        height: 60px;
-        font-size: 34px;
-
-    }
-}
 
 /*1170px - 992px*/
 
@@ -824,7 +813,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 /*1170px*/
 
-@media all and (max-width: 1170px) {
+@media all and (max-width : 1313px ){
     .address{
         width: 100%;
     }
