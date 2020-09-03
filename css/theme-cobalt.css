@@ -2528,10 +2528,15 @@ input[type="submit"] {
   margin-bottom: 32px;
 }
 .error-page .jumbo {
-  font-size: 160px;
+  font-size: 10em;
   line-height: 160px;
   font-weight: 600;
   margin-bottom: 16px !important;
+}
+@media (max-width: 1000px){
+    .error-page .jumbo { 
+    font-size: 5em;
+    }
 }
 .error-page i {
   display: inline-block;
