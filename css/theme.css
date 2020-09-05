@@ -118,6 +118,11 @@ h37{
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+@media all and (max-width: 767px){
+    .alt-font{
+        font-size: 8px;
+    }
+}
 ul {
   list-style: none;
   padding: 0px;
@@ -168,6 +173,11 @@ h6 {
   font-weight: 600;
   margin-bottom: 16px;
 }
+hd1 {
+  font-size: 30px;
+  line-height: 44px;
+  margin-bottom: 48px;
+}
 strong {
   font-weight: 600;
 }
@@ -180,6 +190,15 @@ p.lead {
   line-height: 30px;
   font-weight: normal;
 }
+p.pfv{
+    color: darkgreen;
+}
+@media all and (max-width: 767px){
+    p.pfv{
+    margin-top: 30px;
+    }
+}
+
 p:last-child {
   margin-bottom: 0px;
 }
@@ -439,7 +458,7 @@ nav hr {
   top: 0;
 }
 .top-bar .logo {
-  max-width: 80px;
+  max-width: 130px;
   position: relative;
   bottom: 7px;
 }
@@ -787,8 +806,8 @@ header .btn:last-child {
 }
 .page-header {
   margin: 0px;
-  padding: 0px;
-  padding: 160px 0px;
+  padding: 10px;
+  padding: 180px 0px;
   border-bottom: none;
 }
 .page-header h1 {
@@ -1054,10 +1073,22 @@ header.signup:before {
   padding-top: 121px;
   padding-bottom: 121px;
 }
+@media all and (min-width: 768px){
+    .cabecera{
+        margin-top: -30px !important;
+        }
+    }
 header.centered-text h1 {
-  font-size: 40px;
-  margin-bottom: 24px;
-  line-height: 56px;
+  font-size: 30px;
+  margin-bottom: 0px;
+  line-height: 40px;
+}
+@media all and (max-width: 767px){
+    header.centered-text h1 {
+        font-size: 16px !important;
+        margin-bottom: 10px !important;
+        line-height: 24px !important;
+    }
 }
 header.centered-text .btn {
   margin-right: 16px;
@@ -1744,7 +1775,7 @@ img.phone-portrait {
 }
 .team-1 .feature .sub {
   color: #333333;
-  margin-bottom: 16px;
+  margin-bottom: 160px;
   display: inline-block;
 }
 .team-1-member {
@@ -2964,7 +2995,7 @@ footer.short-2 .contact-action:hover {
     display: none;
   }
   .page-header h1 {
-    font-size: 32px;
+    font-size: 320px;
     line-height: 40px;
   }
   header.centered-text h1 {
