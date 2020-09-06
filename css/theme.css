@@ -1076,10 +1076,15 @@ header.signup:before {
 .cabecera{
     margin-top: -25px !important;
 }
+@media all and (max-width: 767px){
+   .cabecera{
+    margin-top: -40px !important;
+}
+}
 header.centered-text h1 {
   font-size: 25px;
   margin-bottom: 0px;
-  line-height: 40px;
+  line-height: 38px;
 }
 @media all and (max-width: 767px){
     header.centered-text h1 {
