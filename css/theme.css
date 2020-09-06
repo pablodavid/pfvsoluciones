@@ -192,6 +192,7 @@ p.lead {
 }
 p.pfv{
     color: darkgreen;
+    font-weight: bold;
 }
 @media all and (max-width: 767px){
     p.pfv{
