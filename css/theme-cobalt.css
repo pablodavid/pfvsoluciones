@@ -2535,7 +2535,7 @@ input[type="submit"] {
 }
 @media (max-width: 1000px){
     .error-page .jumbo { 
-    font-size: 5em;
+    font-size: 3em;
     }
 }
 .error-page i {
