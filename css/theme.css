@@ -1078,7 +1078,7 @@ header.signup:before {
 }
 @media all and (max-width: 767px){
    .cabecera{
-    margin-top: -40px !important;
+    margin-top: -35px !important;
 }
 }
 header.centered-text h1 {
