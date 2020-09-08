@@ -1714,7 +1714,7 @@ img.phone-portrait {
   font-weight: 600;
 }
 .pricing-table.emphasis {
-  background-color: #e74c3c;
+  background-color: darkgreen;
 }
 .pricing-2 .pricing-tables .col-md-3:first-child .pricing-table {
   border-radius: 25px 0px 0px 25px;
