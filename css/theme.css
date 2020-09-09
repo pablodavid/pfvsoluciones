@@ -815,6 +815,11 @@ header .btn:last-child {
   font-size: 40px;
   margin-bottom: 24px;
 }
+@media all and (max-width: 767px){
+    .page-header h1 {
+        font-size: 19px!important;
+    }
+}
 .page-header p.lead {
   font-size: 18px;
 }
