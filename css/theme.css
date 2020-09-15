@@ -199,7 +199,11 @@ p.pfv{
     margin-top: 25px;
     }
 }
-
+@media all and (max-width: 1200px){
+    p.precios{
+        color: brown !important;
+    }
+}
 p:last-child {
   margin-bottom: 0px;
 }
@@ -1707,6 +1711,11 @@ img.phone-portrait {
   font-size: 56px;
   display: inline-block;
   padding: 0px 8px;
+}
+@media all and (max-width: 1200px){
+    .pricing-table .price .amount {
+        font-size: 35px!important;
+    }
 }
 .pricing-table .features {
   margin: 40px 0px;
