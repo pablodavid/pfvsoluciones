@@ -1,0 +1,12 @@
+Ensamble Gamer Gama alta:
+fecha: 04-09-2020
+Cliente: Loreto
+Detalle:
+-Placa: TUF Gaming Asus
+-Ram 2x8 2666 MHz
+-Procesador: i5-9400f
+-Discos: ssd 120GB hdd 720GB
+-T. gráfica: RTX 2060 Galax
+-F. Poder: 650w Spektra
+-Gabinete: Deepcool Matrexx 55 black RGB
+- Teclado Mecánico Gear Gamer Volt RGB
