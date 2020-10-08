@@ -1,12 +1,11 @@
-Ensamble Gamer Gama alta:
-fecha: 04-09-2020
-Cliente: Loreto
+Ensamble Gamer Martín Talcahuano:
+fecha: 08-10-2020
+Cliente: Martín
 Detalle:
--Placa: TUF Gaming Asus
--Ram 2x8 2666 MHz
--Procesador: i5-9400f
--Discos: ssd 120GB hdd 720GB
--T. gráfica: RTX 2060 Galax
--F. Poder: 650w Spektra
--Gabinete: Deepcool Matrexx 55 black RGB
-- Teclado Mecánico Gear Gamer Volt RGB
+-Placa: MSI H310M
+-Ram 8 2666MHz
+-Procesador: i3-9100F
+-Discos: SSD 120GB Kingston & HDD 1TB WD Blue
+-T. gráfica: GTX 1650 Galax
+-F. Poder: 500w Spektra
+-Gabinete: Deepcool Tesseract SW Red
