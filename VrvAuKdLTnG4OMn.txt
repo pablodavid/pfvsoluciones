@@ -2,10 +2,13 @@ Ensamble Gamer Martín Talcahuano:
 fecha: 08-10-2020
 Cliente: Martín
 Detalle:
--Placa: MSI H310M
+-Placa: MSI H310M Pro-VDH
 -Ram 8 2666MHz
 -Procesador: i3-9100F
 -Discos: SSD 120GB Kingston & HDD 1TB WD Blue
 -T. gráfica: GTX 1650 Galax
 -F. Poder: 500w Spektra
 -Gabinete: Deepcool Tesseract SW Red
+
+Solicitud asesoría técnica(15-10-2020):
+- No funciona el motor de procesamiento de audio en el equipo
