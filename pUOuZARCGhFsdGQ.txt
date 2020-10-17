@@ -1,0 +1,10 @@
+Ensamble Ryzen 5 3400G:
+fecha: 15-10-2020
+Cliente: Hno Patricio Roa
+Detalle:
+-Placa: Asus A320M-K
+-Ram 2x8GB 2666 MHz (quedaron a 2400MHz por compatibilidad)
+-Procesador: Ryzen 5 3400G
+-Discos: SSD 120GB HDD 1TB
+-F. Poder: 500w 
+-Gabinete: Clio Slim 500w
