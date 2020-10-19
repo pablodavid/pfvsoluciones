@@ -1,0 +1,11 @@
+Ensamble Gamer Los Ángeles:
+fecha: 19-10-2020
+Cliente: Natalia
+Detalle:
+-Placa: MSI H310M Pro-VDH
+-Ram 8 2666MHz
+-Procesador: i3-9100F
+-Discos: SSD 128GB Lexar & HDD 1TB WD Blue
+-T. gráfica: GTX 1650 Súper PNY XLR8(...118704)
+-F. Poder: 650w Spektra
+-Gabinete: Deepcool Matrexx 30
