@@ -8,3 +8,4 @@ Detalle:
 -Discos: SSD 120GB HDD 1TB
 -F. Poder: 500w 
 -Gabinete: Clio Slim 500w
+Boletas: 40
