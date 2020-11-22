@@ -1,0 +1,9 @@
+Ensamble para streaming Temuco
+Fecha: 19-11-2020
+Procesador: i3-9100 PE
+Placa: MSI H310M SP
+Ram: Adata XPG GAMIX D10 RED PE
+HDD: Barracuda 1TB PE
+SDD: Lexar 128GB PE
+Gabinete: Coolermaster Masterbox Q300l BP
+Fuente: 500w PF
