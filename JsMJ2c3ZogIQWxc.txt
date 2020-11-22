@@ -1,0 +1,10 @@
+Ensamble victoria
+Fecha: 05-11-2020
+Placa: Msi H310M SP
+Procesador: i3-9100F PF
+Gráfica: Gigabyte 1650 D6 PF
+Fuente: 650w PF
+Gabinete: Deepcool Tesseract White PF
+SSD: Kingston 120GB PF
+HDD: WD 1TB PF
+Ram: 8GB G.Skill PF

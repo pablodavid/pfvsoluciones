@@ -1,0 +1,10 @@
+Ensamble estándar Panguipulli
+Fecha: 12-11-2020
+Placa: Msi H310M SP
+Procesador: i3-9100F PE
+Gráfica: Gigabyte 1650 D6 PF
+Fuente: 500w PF
+Gabinete: Deepcool Matrexx 30 PF
+SSD: Kingston 120GB BP
+HDD: Barracuda 1TB PE
+Ram: 8GB G.Skill PF
