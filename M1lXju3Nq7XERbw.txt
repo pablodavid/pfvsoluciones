@@ -1,0 +1,10 @@
+Ensamble Rockstar
+fecha: 11-12-2020
+Placa: ECS H310 PF
+Gráfica: GTX 1650 GIGABYTE PF
+Procesador: i3-9100F PE
+Ram: 8GB 2666MHz Gammix d10 PE
+SSD: Crucial 120GB PE
+HDD: 1TB Barracuda Seagate PE
+Fuente: Spektra 500w PF
+Gabinete: Gamemax G515 Rockstar PE

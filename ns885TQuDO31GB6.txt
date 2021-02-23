@@ -1,0 +1,10 @@
+Ensamble Malalhue
+Fecha: 11-12-2020
+Placa: Asus H310M PF
+Gráfica: Rx 570 Asus ROG Strix PF
+Ram: 8GB 2666 MHz Adata RED PE
+SSD: 120 Crucial PE
+HDD: WD 1TB PE
+Procesador: i3-9100F PE
+Fuente: 650w PF 
+Gabinete: CoolerMaster K501 BP

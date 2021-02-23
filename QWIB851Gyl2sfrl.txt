@@ -1,0 +1,9 @@
+Ensamble villarrica
+Fecha: 10-01-2020
+Placa: MSI H310M
+Gráfica: Msi Gaming X GTX 1650
+Procesador: i3-9100F
+SSD: 120GB Crucial
+HDD: WD 1TB 
+Fuente: 650w
+Gabinete: Azza Celesta 310
