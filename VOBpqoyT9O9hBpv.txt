@@ -1,0 +1,9 @@
+Ensamble Luis de Valdivia
+Placa: Asus H310M R2.0 PF
+Gráfica: XLR8 GTX 1650 Súper PF
+Procesador: i3-9100F PE
+Ram: 16GB 2666MHz Gammix d10 PE
+SSD: Crucial 120GB PE
+HDD: 1TB Barracuda Seagate PE
+Fuente: Spektra 650w PF
+Gabinete: Gamemax G561 white PE

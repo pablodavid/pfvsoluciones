@@ -1,0 +1,10 @@
+Nombre: Mauricio de Juan Aravena
+Fecha: 30-01-2021
+
+Placa H310M Asus PE 141.841
+Procesador i3-9100F BP
+Gráfica GTX 1650 PF 11.834.887
+Ram 8GB 2666 PF 11.834.887
+Fuente de poder Deepcool 500w 80+ PF 11.834.887
+SSD 120GB BP
+Gabinete Azza Celesta 340 BP

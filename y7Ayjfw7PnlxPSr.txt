@@ -1,0 +1,10 @@
+Ensamble Sra massiel Mulchen
+Fecha: 09-02-2021
+Procesador: i5-9400f PF 11.834.887
+Gráfica: Asus TUF GTX 1650 PF 11.834.887
+Ram: 8 2400Mhz Crucial PF 11.834.887
+Placa: Asus h310m PE 141.841
+SSD: 120GB Kingston PE 143.256
+HDD: 1TB Barracuda PE 141.841
+Fuente: 700 Airmax PE 143.256
+Gabinete: Gamemax Black Hole BP 215.064

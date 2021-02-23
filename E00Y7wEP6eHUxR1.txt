@@ -1,0 +1,10 @@
+Ensamble Sra Evelyn
+Fecha: 15-12-2020
+Placa: MSI H310M PE
+Gráfica: GTX 1650 Súper PF
+Ram: 8GB 2666 MHz Adata Grey PE
+SSD: 128GB Lexar PE
+HDD: WD 1TB PE
+Procesador: i5-9400F PF
+Fuente: 650w PF 
+Gabinete: Tesseract SW red PF

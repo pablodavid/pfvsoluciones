@@ -1,0 +1,10 @@
+Ensamble Pitrufquén
+Fecha: 07-01-2020
+Placa: Gigabyte H310M PE
+Gráfica: Msi Ventus GTX 1650 PF
+Procesador: i3-9100F PE
+Ram: 8GB 2666 MHz Crucial BP
+SSD: 128GB Lexar PE
+HDD: WD 1TB PE
+Fuente: 500w PF 
+Gabinete: Gamemax Rockstar

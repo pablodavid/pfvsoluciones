@@ -1,0 +1,10 @@
+Ensamble Estándar Mercadolibre
+Fecha: 17-12-2020
+Placa: MSI H310M PE
+Ram: 8GB 2666 MHz Adata Red PE
+SSD: 128GB Lexar PE
+HDD: WD 1TB PE
+Procesador: i3-9100F PE
+Fuente: 500w PF 
+Gabinete: Deepcool E-Shield PE
+Gráfica: PNY XLR8 GTX 1650
