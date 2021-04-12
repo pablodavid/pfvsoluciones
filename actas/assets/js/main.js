@@ -3,6 +3,11 @@ function abrir(){
     window.open('Acta-Marzo.pdf','Acta Marzo',especificaciones);
 }
 
+function abrirabril(){
+    let especificaciones = "height="+window.screen.availHeight+",width=800,left="+(window.screen.width/2-400);
+    window.open('Acta-Abril.pdf','Acta Marzo',especificaciones);
+}
+
 (function() {
   "use strict";
 
