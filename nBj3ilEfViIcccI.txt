@@ -1,0 +1,10 @@
+Ensamble GT 1030 4
+Fecha: 24-03-2021
+Placa: H310M
+Procesador: i3-9100F
+Gráfica: GT 1030 Gigabyte
+Ram: Value Crucial 8GB 2666
+SSD: 128GB Lexar
+HDD: 1TB Barracuda
+Fuente: DA500w
+Gabinete: Rockstar

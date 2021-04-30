@@ -1,0 +1,10 @@
+Ensamble GT 1030
+fecha: 23-03-2021
+Placa: Asus H410M PF
+Procesador: i3-10100F PE
+Gráfica: Asus GT 1030 BP
+Ram: Adata D30 2666 PE
+SSD: Kingston 120GB PE
+HDD: Barracuda 1TB PE
+Fuente de poder: Deepcool DA500 PF
+Gabinete: Deepcol E-Shield PF

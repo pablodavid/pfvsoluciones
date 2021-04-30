@@ -1,0 +1,10 @@
+Ensamble Labranza GT 1030
+Fecha: 19-03-2021
+Placa: ASRock H410M
+Procesador: i3-10100F
+Gráfica: Asus GT 1030
+Ram: D30 8GB
+SSD: Kingston 120GB
+HDD: Toshiba 1TB
+Fuente: Airmax 700w
+Gabinete: G561 White

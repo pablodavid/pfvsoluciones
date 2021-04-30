@@ -1,0 +1,10 @@
+Ensamble evga 1650 Temuco
+Fecha: 02-03-2021
+Placa: Gigabyte H410M PE 144.405
+Procesador: Intel i3-10100F PE 144.405
+Ram: Gammix D30 8GB BP 216.262
+Fuente de poder: Airmax 700 PE 147.198
+Gabinete: Deepcool Matrexx 55 Black PF 11.849.713
+Disco duro: Toshiba 1TB PF 11.849.713
+SSD: Kingston 120GB PE 143.256
+Tarjeta gráfica: EVGA GTX 1650 PF 11.823.501

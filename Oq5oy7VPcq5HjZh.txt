@@ -1,0 +1,11 @@
+Ensamble Yumbel 3
+Fecha: 11-03-2021
+Procesador: i3-10100F
+Placa: H410M Asus
+Gráfica: 1650 TUF
+Ram: 8GB 2666 D30
+SSD: 120GB Kingston
+HDD: 1TB Barracuda
+Fuente: Airmax AK-700
+Gabinete: Deepcool Matrex 55
+2 Ventiladores Azules

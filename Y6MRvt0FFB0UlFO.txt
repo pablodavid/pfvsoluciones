@@ -1,0 +1,10 @@
+Ensamble GT 1030 Temuco
+Fecha: 02-03-2021
+Placa: Gigabyte H410M PE 144.405
+Procesador: Intel i3-10100F PE 144.405
+Ram: Spectrix D80 8GB 3200MHz PE 141.841
+Fuente de poder: Airmax 700 PE 147.198
+Disco duro: Barracuda 1TB PE 141.841
+Tarjeta gráfica: Gigabyte GT 1030 PE 147.198
+Gabinete: Gamemax Paladin BP 
+SSD: Crucial 120GB PF 11.849.713

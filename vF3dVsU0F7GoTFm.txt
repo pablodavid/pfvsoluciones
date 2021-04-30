@@ -1,0 +1,8 @@
+Ensamble Ryzen 3 3200G
+Fecha: 08-03-2021
+Placa: Asus A320M-K PF 11.887.761
+Procesador: Ryzen 3 3200G PF 11.887.761
+Ram: Crucial 8GB 2400MHz PF 11.887.761
+Fuente de poder: Airmax 700 PE 147.198
+Gabinete: Deepcool Matrexx 55 black PF 11.887.761
+SSD: Kingston 120GB PE 143.256
