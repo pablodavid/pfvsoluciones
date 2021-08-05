@@ -100,7 +100,7 @@ const Funcionarios = [
 	{nombre: 'David+Vega', rut: '20974795-2', empresa: 'Larrain', area: 'Trafico+Varas'},
 	{nombre: 'Pablo+Cepeda', rut: '19519776-8', empresa: 'Frigorifico+Temuco', area: 'Prevencion'},
 	{nombre: 'Roberto+Sepulveda', rut: '17444426-9', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
-	{nombre: '', rut: '', empresa: 'Larrain', area: ''},
+	{nombre: 'Melisa+Esparza', rut: '21581580-3', empresa: 'Larrain', area: 'Faena'},
 	{nombre: '', rut: '', empresa: 'Larrain', area: ''},
 	{nombre: '', rut: '', empresa: 'Larrain', area: ''},
 	{nombre: '', rut: '', empresa: 'Larrain', area: ''},
