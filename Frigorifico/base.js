@@ -66,7 +66,7 @@ const Funcionarios = [
 	{nombre: 'Jean+Maccenat', rut: '25947809-K', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Eduardo+Cayunao', rut: '13809346-8', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	{nombre: 'Carlos+Painevilo', rut: '9854102-0', empresa: 'Frigorifico+Temuco', area: 'Corrales'},
-	{nombre: 'Jorge+Lincovilo', rut: '9935031-8', empresa: 'Frigorifico+Temuco', area: 'Mantecion'},
+	{nombre: 'Jorge+Lincovilo', rut: '9935031-8', empresa: 'Frigorifico+Temuco', area: 'Mantencion'},
 	{nombre: 'Carlos+Castro', rut: '16585709-7', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	{nombre: 'Raúl+Lopez+Muñoz', rut: '20354629-7', empresa: 'Galdames', area: 'Triperia'},
 	{nombre: 'Benjamín+Contreras', rut: '19304536-7', empresa: 'Galdames', area: 'Triperia'},
