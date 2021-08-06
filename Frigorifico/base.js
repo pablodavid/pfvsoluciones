@@ -166,7 +166,7 @@ const Funcionarios = [
 	{nombre: 'Yhon+Olivera', rut: '19286075-K', empresa: 'Frigorifico+Temuco', area: 'SPC'},
 	{nombre: 'Sergio+Diaz', rut: '12927852-8', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	{nombre: 'Rodrigo+Reyes', rut: '17261523-6', empresa: 'Frigorifico+Temuco', area: 'Mantencion'},
-	//{nombre: '', rut: '', empresa: 'Larrain', area: ''},
+	{nombre: 'Victor+Vargas', rut: '16316568-6', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	
 	
 	
