@@ -9,7 +9,7 @@ function goToForm(rut,nombre,empresa,area){
 		mes='0'+mes;
 	var hoy=ano+"-"+mes+"-"+dia;
 	var url="https://docs.google.com/forms/d/e/1FAIpQLSetjxEVk83c48NaEfPofCpg9cmyugli8FlrQrjzCiI0wUcwKQ/viewform?entry.663054490="+rut+"&entry.842812461="+hoy+"&entry.234679363="+nombre+"&entry.476383136="+empresa
-	if(area === "Casino"||area ==="Tripería"||area ==="Jardinería"||area ==="Transporte"||area ==="Grasas"||area === "Operaciones"){
+	if(area === "Casino"||area ==="Inspector"||area ==="Jardinería"||area ==="Transporte"||area ==="Grasas"||area === "Operaciones"){
 		url=url+"&entry.476407092.other_option_response="+area
 		area="__other_option__"
 	}
