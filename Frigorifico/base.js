@@ -147,7 +147,7 @@ const Funcionarios = [
 	{nombre: 'Leodan+Quintriqueo', rut: '18967944-0', empresa: 'Frigorifico+Temuco', area: 'SPC'},
 	{nombre: 'Joel+Lienlaf', rut: '13397206-4', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	{nombre: 'Alejandro+Giusti', rut: '6988819-4', empresa: 'Total+Clean', area: 'Aseo+/+Guardarropia'},
-	{nombre: 'Leonel+Beñaldo', rut: '9891261-4', empresa: 'Frigorifico+Temuco', area: 'Trafico+Varas'},
+	{nombre: 'Leonel+Beñaldo', rut: '9891261-4', empresa: 'Larrain', area: 'Trafico+Varas'},
 	{nombre: 'Juan+Alegre', rut: '8597839-K', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	{nombre: 'Cesar+Peña', rut: '18774473-3', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Cristian+Ortega', rut: '13317847-3', empresa: 'Frigorifico+Temuco', area: 'Faena'},
