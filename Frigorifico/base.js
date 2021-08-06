@@ -170,5 +170,5 @@ const Funcionarios = [
 	{nombre: 'Jorge+Espinoza', rut: '12537525-1', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
 	{nombre: 'Enrique+Luca', rut: '7972206-5', empresa: 'Otro', area: 'Transporte'},
 	{nombre: 'Joaquin+Rifo', rut: '14219659-K', empresa: 'SAG', area: 'Faena'},
-	//{nombre: '', rut: '', empresa: '', area: ''},
+	{nombre: 'Gedeon+Geraldson', rut: '26474746-5', empresa: 'Frigorifico+Temuco', area: 'Trafico+Cajas'},
 ]
