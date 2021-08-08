@@ -19,12 +19,19 @@ function goToForm(rut,nombre,empresa,area){
 function login(url)
 {
     var http = new XMLHttpRequest();
-    http.open('HEAD', url, false);
-    http.send();
-    if(http.status == 404||url === "index.html"){
-		alert("Contraseña incorrecta.")
+	if(url == "index.html"){
+		alert("Contraseña incorrecta");
 	}
 	else{
-		window.location.href=url;
-	}
+    	http.open('HEAD', url, false);
+    	http.send();
+    	if(http.status == 404){
+			alert("Contraseña incorrecta.");
+		}
+		else{
+			window.location.href=url;
+			}
+
+		
+		}
 }
