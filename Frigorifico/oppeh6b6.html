@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <title>PFV SOLUCIONES - Formulario Frigorifico</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="main.js"></script>
+		<script src="oppeh6b6.js"></script>
+    </head>
+    <body>
+		
+		<div class="container justify-content-center">
+			<h1>Funcionarios<br>Frigorífico</br></h1>
+			<input type="text" id="formulario">
+			<ul id="resultado">
+			</ul>
+		</div>
+    	<script>
+			const formulario = document.querySelector('#formulario');
+			const resultado = document.querySelector('#resultado');
+			const filtrar = ()=>{
+				resultado.innerHTML = '';
+				const texto = formulario.value.replaceAll(' ', '+');
+				for(let funcionario of Funcionarios){
+					let nombre = funcionario.nombre
+					if(nombre.indexOf(texto) !== -1){
+						resultado.innerHTML += `
+							<li><a href="javascript:goToForm('${funcionario.rut}', '${funcionario.nombre}', '${funcionario.empresa}', '${funcionario.area}');">${funcionario.nombre.replaceAll('+', ' ')}</a> - ${funcionario.empresa.replaceAll('+', ' ')} - ${funcionario.area.replaceAll('+', ' ')}</li>
+						`
+					}
+				}
+				if(resultado.innerHTML === ''){
+					resultado.innerHTML +=`
+						<li>Funcionario no encontrado...</li>
+					`
+				}
+			}
+			formulario.addEventListener('keyup', filtrar)
+			filtrar();
+		</script>
+    </body>
+</html>	

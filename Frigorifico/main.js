@@ -16,3 +16,15 @@ function goToForm(rut,nombre,empresa,area){
 	url += "&entry.476407092="+area+"&entry.673783433=No&entry.1728399202=Ninguno&entry.497685889=Vehiculo+particular"
 	window.open(url, '_blank')
 }
+function login(url)
+{
+    var http = new XMLHttpRequest();
+    http.open('HEAD', url, false);
+    http.send();
+    if(http.status == 404){
+		alert("Contraseña incorrecta.")
+	}
+	else{
+		window.location.href=url;
+	}
+}
