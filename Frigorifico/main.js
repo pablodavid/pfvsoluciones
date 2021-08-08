@@ -13,7 +13,7 @@ function goToForm(rut,nombre,empresa,area){
 		url=url+"&entry.476407092.other_option_response="+area
 		area="__other_option__"
 	}
-	url += "&entry.476407092="+area+"&entry.673783433=No&entry.1728399202=Ninguno&entry.497685889=Vehiculo+particular"
+	url += "&entry.476407092="+area+"&entry.673783433=No&entry.1728399202=Ninguno&entry.497685889=Vehiculo+particular+(bicicleta,+motocicleta,+caminando)"
 	window.open(url, '_blank')
 }
 function login(url)
@@ -21,7 +21,7 @@ function login(url)
     var http = new XMLHttpRequest();
     http.open('HEAD', url, false);
     http.send();
-    if(http.status == 404||url === "index"){
+    if(http.status == 404||url === "index"||url === "null"){
 		alert("Contraseña incorrecta.")
 	}
 	else{
