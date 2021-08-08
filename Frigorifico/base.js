@@ -140,7 +140,7 @@ const Funcionarios = [
 	{nombre: 'Orlando+Carriman', rut: '18875771-5', empresa: 'Otro', area: 'SPI'},
 	{nombre: 'Carlos+Nuñez', rut: '26754482-4', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Richard+de+Jesús+Perez', rut: '26567415-1', empresa: 'Galdames', area: 'Triperia'},
-	{nombre: 'Sudelia+Cortez', rut: '15492942-8', empresa: 'Frigorifico+Temuco', area: 'Calidad'},//Corroborar Area
+	{nombre: 'Sudelia+Cortez', rut: '15492942-8', empresa: 'Frigorifico+Temuco', area: 'Calidad'},
 	{nombre: 'Sandra+Saavedra', rut: '11040129-9', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
 	{nombre: 'Elisabeth+Peña', rut: '14210281-1', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Hernan+Coliñir', rut: '15827247-4', empresa: 'Larrain', area: 'Faena'},
