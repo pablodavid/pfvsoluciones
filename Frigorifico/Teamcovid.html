@@ -28,7 +28,7 @@
 					let nombre = funcionario.nombre
 					if(nombre.indexOf(texto) !== -1){
 						resultado.innerHTML += `
-							<li><a href="javascript:goToForm('${funcionario.rut}', '${funcionario.nombre}', '${funcionario.empresa}', '${funcionario.area}');">${funcionario.nombre.replaceAll('+', ' ')}</a> - ${funcionario.empresa.replaceAll('+', ' ')} - ${funcionario.area.replaceAll('+', ' ')}</li>
+							<li><a href="javascript:goToForm('${funcionario.rut}', '${funcionario.nombre}', '${funcionario.empresa}', '${funcionario.area}');">${funcionario.nombre.replaceAll('+', ' ')}</a> - <button type="button" class="btn btn-outline-primary">${funcionario.empresa.replaceAll('+', ' ')}  <button type="button" class="btn btn-outline-primary">${funcionario.area.replaceAll('+', ' ')}</button></li>
 						`
 					}
 				}
