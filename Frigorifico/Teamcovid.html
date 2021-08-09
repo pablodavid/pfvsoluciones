@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>PFV SOLUCIONES - Formulario Frigorifico</title>
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
         <script src="main.js"></script>
 		<script src="3337891255loppeh6b684jd8q5n.js"></script>
     </head>
@@ -12,7 +12,14 @@
 			<div class="border mx-auto bg-dark text-white" style="width: 600px; height: auto;">
 			<div class="m-4">
 				<h1>Funcionarios<p>Frigorífico</p></h1>
-				<input type="text" id="formulario">
+				<div class="row">
+					<div class="col-sm-4">
+						<input type="text" id="formulario">
+					</div>
+					<div class="col-md-auto px-1 py-1">
+						<button id="boton" type="button" class="btn-close btn-close-white" aria-label="Close"></button>
+					</div>
+				</div>
 			</div>
 			<ul id="resultado">
 			</ul>
@@ -21,7 +28,9 @@
     	<script>
 			const formulario = document.querySelector('#formulario');
 			const resultado = document.querySelector('#resultado');
-			const filtrar = ()=>{
+			const boton = document.getElementById("boton");
+			const clear = ()=>{formulario.value="";filtrar();}
+				const filtrar = ()=>{
 				resultado.innerHTML = '';
 				const texto = formulario.value.replaceAll(' ', '+');
 				for(let funcionario of Funcionarios){
@@ -40,6 +49,7 @@
 				}
 			}
 			formulario.addEventListener('keyup', filtrar)
+			boton.addEventListener('click', clear)
 			filtrar();
 		</script>
     </body>
