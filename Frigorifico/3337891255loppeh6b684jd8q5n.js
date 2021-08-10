@@ -180,4 +180,5 @@ var Funcionarios = [
 	{nombre: 'Hector+Ruiz', rut: '8882046-0', empresa: 'Otro', area: 'Mantencion'},
 	{nombre: 'Erick+Sepulveda', rut: '19704771-2', empresa: 'Frigorifico+Temuco', area: 'Corrales'},
 	{nombre: 'Hector+Rocha', rut: '19075613-0', empresa: 'Frigorifico+Temuco', area: 'Administracion'},
+	{nombre: 'Jocelyn+Cheuquelaf', rut: '18333388-7', empresa: 'Larrain', area: 'Faena'},
 ]
