@@ -28,7 +28,7 @@
 			const formulario = document.querySelector('#formulario');
 			const resultado = document.querySelector('#resultado');
 			const boton = document.getElementById("boton");
-			const clear = ()=>{formulario.value="";filtrar();}
+			const clear = ()=>{formulario.value="";filtrar();formulario.focus();}
 				const filtrar = ()=>{
 				resultado.innerHTML = '';
 				const texto = formulario.value.replaceAll(' ', '+');
