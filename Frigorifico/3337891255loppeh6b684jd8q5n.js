@@ -173,7 +173,7 @@ var Funcionarios = [
 	{nombre: 'Gedeon+Geraldson', rut: '26474746-5', empresa: 'Frigorifico+Temuco', area: 'Trafico+Cajas'},
 	{nombre: 'Luis+Aburto', rut: '19230653-1', empresa: 'Tecnocarne', area: 'Faena'},
 	{nombre: 'Jaime+Avarzúa', rut: '17982657-7', empresa: 'SAG', area: 'Inspector'},
-	{nombre: 'Eduardo+Calfin', rut: '', empresa: 'Galdames', area: ''},
+	{nombre: 'Eduardo+Calfin', rut: '8019396-3', empresa: 'Galdames', area: 'Triperia'},
 	{nombre: 'Manuel+Maldonado', rut: '12754519-7', empresa: 'Otro', area: 'Triperia'},
 	{nombre: 'Judner+Jean', rut: '26067138-3', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	{nombre: 'Igor+Silva', rut: '18557493-8', empresa: 'Frigorifico+Temuco', area: 'Faena'},
@@ -182,4 +182,5 @@ var Funcionarios = [
 	{nombre: 'Hector+Rocha', rut: '19075613-0', empresa: 'Frigorifico+Temuco', area: 'Administracion'},
 	{nombre: 'Jocelyn+Cheuquelaf', rut: '18333388-7', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Nicole+Duget', rut: '16049341-0', empresa: 'Frigorifico+Temuco', area: 'RRHH'},
+	
 ]
