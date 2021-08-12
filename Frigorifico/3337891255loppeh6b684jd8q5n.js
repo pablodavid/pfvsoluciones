@@ -193,6 +193,10 @@ var Funcionarios = [
 	{nombre: 'Alexander+Velasquez', rut: '26445058-6', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
 	{nombre: 'Miguel Palma', rut: '11247974-0', empresa: 'Galdames', area: 'Triperia'},
 	{nombre: 'Leandro+Duran', rut: '9372203-5', empresa: 'Frigorifico+Temuco', area: 'Faena'},
+	{nombre: 'John Tejo', rut: '17915095-6', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
+	{nombre: 'Marcelo+Cares', rut: '13581669-8', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
+	{nombre: 'Maximiliano Mendez', rut: '11356410-5', empresa: 'Larrain', area: 'Trafico+Varas'},
+	{nombre: 'Joseph+Wilson+Jean', rut: '', empresa: '', area: ''},
 	//{nombre: '', rut: '', empresa: '', area: ''},
 
 ]
