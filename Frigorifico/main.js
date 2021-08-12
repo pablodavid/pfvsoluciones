@@ -28,7 +28,7 @@ function login(url)
 		window.location.href=url;
 	}
 }
-function abrirVacio()
+function abrirVacio(nombre)
 {
 	var fecha = new Date();
 	var mes = fecha.getMonth()+1;
@@ -39,6 +39,6 @@ function abrirVacio()
 	if(mes<10)
 		mes='0'+mes;
 	var hoy=ano+"-"+mes+"-"+dia;
-	var url="https://docs.google.com/forms/d/e/1FAIpQLSetjxEVk83c48NaEfPofCpg9cmyugli8FlrQrjzCiI0wUcwKQ/viewform?entry.842812461="+hoy+"&entry.673783433=No&entry.1728399202=Ninguno&entry.497685889=Vehiculo+particular+(bicicleta,+motocicleta,+caminando)";
+	var url="https://docs.google.com/forms/d/e/1FAIpQLSetjxEVk83c48NaEfPofCpg9cmyugli8FlrQrjzCiI0wUcwKQ/viewform?entry.842812461="+hoy+"&entry.234679363="+nombre+"&entry.673783433=No&entry.1728399202=Ninguno&entry.497685889=Vehiculo+particular+(bicicleta,+motocicleta,+caminando)";
 	window.open(url, '_blank');
 }
