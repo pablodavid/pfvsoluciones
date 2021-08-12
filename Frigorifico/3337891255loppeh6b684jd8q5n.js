@@ -192,6 +192,7 @@ var Funcionarios = [
 	{nombre: 'Jose+Alberto+Sibira', rut: '27072748-4', empresa: 'Galdames', area: 'Triperia'},
 	{nombre: 'Alexander+Velasquez', rut: '26445058-6', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
 	{nombre: 'Miguel Palma', rut: '11247974-0', empresa: 'Galdames', area: 'Triperia'},
+	{nombre: 'Leandro+Duran', rut: '9372203-5', empresa: 'Frigorifico+Temuco', area: 'Faena'},
 	//{nombre: '', rut: '', empresa: '', area: ''},
 
 ]
