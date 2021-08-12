@@ -196,7 +196,7 @@ var Funcionarios = [
 	{nombre: 'John Tejo', rut: '17915095-6', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
 	{nombre: 'Marcelo+Cares', rut: '13581669-8', empresa: 'Frigorifico+Temuco', area: 'Desposte'},
 	{nombre: 'Maximiliano Mendez', rut: '11356410-5', empresa: 'Larrain', area: 'Trafico+Varas'},
-	{nombre: 'Joseph+Wilson+Jean', rut: '', empresa: '', area: ''},
+	{nombre: 'Joseph+Wilson+Jean', rut: '26202292-7', empresa: 'Larrain', area: 'Faena'},
 	//{nombre: '', rut: '', empresa: '', area: ''},
 
 ]
