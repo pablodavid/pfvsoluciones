@@ -1,5 +1,15 @@
+const f="Frigorifico+Temuco";
+const l="Larrain";
+const g="Galdames"
+const m="Matilde+Contreras"
+const t="Triperia"
+const o="Otro"
+const c="Casino"
+const to="Total+Clean"
+const tc="Tecnocarne"
+const p="Prevencion".
 var Funcionarios = [
-	{nombre: 'Pablo+Figueroa', rut: '19478175-K', empresa: 'Frigorifico+Temuco', area: 'Prevencion'},
+	{nombre: 'Pablo+Figueroa', rut: '19478175-K', empresa: f, area: p},
 	{nombre: 'Diego+San+Martin', rut: '19075903-2', empresa: 'Frigorifico+Temuco', area: 'Prevencion'},
 	{nombre: 'Louis+Maxilin', rut: '25966879-4', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Marco+Ignaipil', rut: '20106564-K', empresa: 'Frigorifico+Temuco', area: 'Faena'},
@@ -200,6 +210,7 @@ var Funcionarios = [
 	{nombre: 'Ivan+Alvarado', rut: '18241988-5', empresa: 'Larrain', area: 'Faena'},
 	{nombre: 'Pedro+Sierra', rut: '20106096-6', empresa: 'Larrain', area: 'Desposte'},
 	{nombre: 'Eduardo+Benavides', rut: '18720031-8', empresa: 'Larrain', area: 'Trafico+Cajas'},
+	{nombre: 'Ercio+Sandoval', rut: '9947084-4', empresa: 'Otro', area: 'Transporte'},
 	//{nombre: '', rut: '', empresa: '', area: ''},
 
 ]
