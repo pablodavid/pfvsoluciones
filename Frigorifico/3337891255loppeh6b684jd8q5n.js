@@ -7,7 +7,8 @@ const o="Otro"
 const c="Casino"
 const to="Total+Clean"
 const tc="Tecnocarne"
-const p="Prevencion".
+const p="Prevencion"
+const fa="Faena"
 var Funcionarios = [
 	{nombre: 'Pablo+Figueroa', rut: '19478175-K', empresa: f, area: p},
 	{nombre: 'Diego+San+Martin', rut: '19075903-2', empresa: 'Frigorifico+Temuco', area: 'Prevencion'},
