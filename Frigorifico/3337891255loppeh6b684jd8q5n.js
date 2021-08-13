@@ -225,5 +225,6 @@ var Funcionarios = [
 	{nombre: 'Alejandro+Mella', rut: '14221844-5', empresa: g, area: t},
 	{nombre: 'Carlos+Painemal', rut: '16947963-1', empresa: f, area: d},
 	{nombre: 'Nicolas+Quezada', rut: '20103522-8', empresa: c, area: c},
+	{nombre: 'Carlos+Garrido', rut: '17873627-2', empresa: f, area: d},
 	//{nombre: '', rut: '', empresa: , area: },
 ]
