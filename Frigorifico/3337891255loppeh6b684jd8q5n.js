@@ -228,8 +228,8 @@ var Funcionarios = [
 	{nombre: 'Carlos+Garrido', rut: '17873627-2', empresa: f, area: d},
 	{nombre: 'Cristobal+Neculman', rut: '19480812-7', empresa: l, area: s},
 	{nombre: 'Mauricio Manqueche', rut: '9515755-6', empresa: l, area: f},
-	{nombre: 'Peterson+Charles', rut: '26847786-1', empresa: f, area: "corrales"},
-	{nombre: 'Sergio+Sayago', rut: '6572992-K', empresa: "SAG", area: "Medico+Veterinario"},
-	{nombre: 'Ivan+Frdericksen', rut: '19197487-5', empresa: f, area: se},
+	{nombre: 'Peterson+Charles', rut: '26847786-1', empresa: f, area: 'corrales'},
+	{nombre: 'Sergio+Sayago', rut: '6572992-K', empresa: 'SAG', area: 'Medico+Veterinario'},
+	{nombre: 'Ivan+Fredericksen', rut: '19197487-5', empresa: f, area: se},
 	//{nombre: '', rut: '', empresa: , area: },
 ]
