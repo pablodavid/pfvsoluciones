@@ -19,6 +19,7 @@ const s="SPI"
 const sc="SPC"
 const se="Seguridad"
 const tn="Total+Clean"
+const As="Aseo+/+Guardarropia"
 var Funcionarios = [
 	{nombre: 'Pablo+Figueroa', rut: '19478175-K', empresa: f, area: p},
 	{nombre: 'Diego+San+Martin', rut: '19075903-2', empresa: f, area: p},
@@ -272,6 +273,29 @@ var Funcionarios = [
 	{nombre: 'Felipe+Salgado', rut: '19480767-8', empresa: g, area: t},
 	{nombre: 'Jonathan+Gonzalez', rut: '21037993-2', empresa: l, area: d},
 	{nombre: 'Carla+Monsalve', rut: '18700085-8', empresa: f, area: d},
+	{nombre: 'Sebastian+Romero', rut: '9914083-6', empresa: f, area: 'Bodega'},
+	{nombre: 'Jorge+Irarrazabal', rut: '6871045-6', empresa: f, area: fa},
+	{nombre: 'Felipe+Salgado', rut: '19480768-8', empresa: g, area: t},
+	{nombre: 'Jose+Aguilera', rut: '16316304-7', empresa: f, area: d},
+	{nombre: 'Bernardo+Vargas', rut: '19891619-6', empresa: tc, area: fa},
+	{nombre: 'Olivier+Paul', rut: '26448985-7', empresa: f, area: fa},
+	{nombre: 'Edisson+Lalume', rut: '26787938-9', empresa: m, area: 'Induccion'},
+	{nombre: 'Fenel+Mozard', rut: '26228851-K', empresa: f, area: fa},
+	{nombre: 'Jean+feguel', rut: '26544136-K', empresa: f, area: sc},
+	{nombre: 'Edison+Lalume', rut: '26787938-9', empresa: m, area: fa},
+	{nombre: 'Guillermo+Tapia', rut: '20645030-4', empresa: l, area: d},
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
+	//{nombre: '', rut: '', empresa: , area: },
 	//{nombre: '', rut: '', empresa: , area: },
 	//{nombre: '', rut: '', empresa: , area: },
 ]
